@@ -3,12 +3,12 @@ Website: https://www.adorama.com/
 
 --
 
-Part price selector     
+**Part price selector**
 
 Price location:   
 .item .prices .price-label
 
-Detailed Price breakdown:
+**Detailed Price breakdown:**
 
 "Your price":    
 .item .prices .price-label .your-price
@@ -21,9 +21,12 @@ Detailed Price breakdown:
 
 --
 
-Part price cent selector: none (price shows as a final value and includes currency symbol too).
+**Part price cent selector:** 
+none (price shows as a final value and includes currency symbol too).
 
 --
 
-Part in-stock selector: Stock location:   
+**Part in-stock selector:**
+
+Stock location:   
 .item .item-actions button (cannot be targeted by css. Button has a data-orig-val)
