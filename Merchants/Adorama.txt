@@ -1,8 +1,9 @@
 Merchant: Adorama
-
 Website: https://www.adorama.com/
 
-Part price selector:      
+--
+
+Part price selector     
 
 Price location:   
 .item .prices .price-label
